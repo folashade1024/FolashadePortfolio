@@ -12,6 +12,8 @@ const Portfolio = () => {
       id: 2,
       src: work2,
     },
+
+    
     {
       id: 3,
       src: work3,
